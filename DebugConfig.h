@@ -1,3 +1,10 @@
+/*
+ * Name: DebugConfig.h
+ * Use: Build-time debug print control for verbose and quiet firmware builds.
+ * Version: 4.0.0
+ * Created by: Durvesh Pathak dp676@cornell.edu
+ */
+
 /**
  * Build-time debug print control.
  *
